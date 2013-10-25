@@ -1,7 +1,7 @@
 apple
-
-
+banana	
+cat
 dogs
-
-
+elephant
+fish
 goat
